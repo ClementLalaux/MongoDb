@@ -3,12 +3,6 @@ use('livre');
 
 //db.livre.find();
 
-// db.livre.insertOne({
-//     nom : "Macbook Pro",
-//     fabriquand : "Apple",
-//     prix : "11435.99",
-//     options : ["Intel Core i5","Retina Display","Long life battery"]
-// });
 
 //db.livre.find({type : "Book"});
 
